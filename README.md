@@ -1,4 +1,6 @@
-# appointment
+# User registration and role based authorization
 
-Registration and login with JWT API
-role based Authorization is implemented
+NodeJS API code for
+User registration
+Role based authorization
+JWT
